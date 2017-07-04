@@ -1,0 +1,313 @@
+isis資料集屬性及類別表
+    sepallength	    sepalwidth	    petallength	    petalwidth	            Class
+1	5.1		3.5		1.4		0.2		Iris-setosa
+2	4.9		3.0		1.4		0.2		Iris-setosa
+3	4.7		3.2		1.3		0.2		Iris-setosa
+4	4.6		3.1		1.5		0.2		Iris-setosa
+5	5.0		3.6		1.4		0.2		Iris-setosa
+6	5.4		3.9		1.7		0.4		Iris-setosa
+7	4.6		3.4		1.4		0.3		Iris-setosa
+8	5.0		3.4		1.5		0.2		Iris-setosa
+9	4.4		2.9		1.4		0.2		Iris-setosa
+10	4.9		3.1		1.5		0.1		Iris-setosa
+11	5.4		3.7		1.5		0.2		Iris-setosa
+12	4.8		3.4		1.6		0.2		Iris-setosa
+13	4.8		3.0		1.4		0.1		Iris-setosa
+14	4.3		3.0		1.1		0.1		Iris-setosa
+15	5.8		4.0		1.2		0.2		Iris-setosa
+16	5.7		4.4		1.5		0.4		Iris-setosa
+17	5.4		3.9		1.3		0.4		Iris-setosa
+18	5.1		3.5		1.4		0.3		Iris-setosa
+19	5.7		3.8		1.7		0.3		Iris-setosa
+20	5.1		3.8		1.5		0.3		Iris-setosa
+21	5.4		3.4		1.7		0.2		Iris-setosa
+22	5.1		3.7		1.5		0.4		Iris-setosa
+23	4.6		3.6		1.0		0.2		Iris-setosa
+24	5.1		3.3		1.7		0.5		Iris-setosa
+25	4.8		3.4		1.9		0.2		Iris-setosa
+26	5.0		3.0		1.6		0.2		Iris-setosa
+27	5.0		3.4		1.6		0.4		Iris-setosa
+28	5.2		3.5		1.5		0.2		Iris-setosa
+29	5.2		3.4		1.4		0.2		Iris-setosa
+30	4.7		3.2		1.6		0.2		Iris-setosa
+31	4.8		3.1		1.6		0.2		Iris-setosa
+32	5.4		3.4		1.5		0.4		Iris-setosa
+33	5.2		4.1		1.5		0.1		Iris-setosa
+34	5.5		4.2		1.4		0.2		Iris-setosa
+35	4.9		3.1		1.5		0.1		Iris-setosa
+36	5.0		3.2		1.2		0.2		Iris-setosa
+37	5.5		3.5		1.3		0.2		Iris-setosa
+38	4.9		3.1		1.5		0.1		Iris-setosa
+39	4.4		3.0		1.3		0.2		Iris-setosa
+40	5.1		3.4		1.5		0.2		Iris-setosa
+41	5.0		3.5		1.3		0.3		Iris-setosa
+42	4.5		2.3		1.3		0.3		Iris-setosa
+43	4.4		3.2		1.3		0.2		Iris-setosa
+44	5.0		3.5		1.6		0.6		Iris-setosa
+45	5.1		3.8		1.9		0.4		Iris-setosa
+46	4.8		3.0		1.4		0.3		Iris-setosa
+47	5.1		3.8		1.6		0.2		Iris-setosa
+48	4.6		3.2		1.4		0.2		Iris-setosa
+49	5.3		3.7		1.5		0.2		Iris-setosa
+50	5.0		3.3		1.4		0.2		Iris-setosa
+51	7.0		3.2		4.7		1.4		Iris-versicolor
+52	6.4		3.2		4.5		1.5		Iris-versicolor
+53	6.9		3.1		4.9		1.5		Iris-versicolor
+54	5.5		2.3		4.0		1.3		Iris-versicolor
+55	6.5		2.8		4.6		1.5		Iris-versicolor
+56	5.7		2.8		4.5		1.3		Iris-versicolor
+57	6.3		3.3		4.7		1.6		Iris-versicolor
+58	4.9		2.4		3.3		1.0		Iris-versicolor
+59	6.6		2.9		4.6		1.3		Iris-versicolor
+60	5.2		2.7		3.9		1.4		Iris-versicolor
+61	5.0		2.0		3.5		1.0		Iris-versicolor
+62	5.9		3.0		4.2		1.5		Iris-versicolor
+63	6.0		2.2		4.0		1.0		Iris-versicolor
+64	6.1		2.9		4.7		1.4		Iris-versicolor
+65	5.6		2.9		3.6		1.3		Iris-versicolor
+66	6.7		3.1		4.4		1.4		Iris-versicolor
+67	5.6		3.0		4.5		1.5		Iris-versicolor
+68	5.8		2.7		4.1		1.0		Iris-versicolor
+69	6.2		2.2		4.5		1.5		Iris-versicolor
+70	5.6		2.5		3.9		1.1		Iris-versicolor
+71	5.9		3.2		4.8		1.8		Iris-versicolor
+72	6.1		2.8		4.0		1.3		Iris-versicolor
+73	6.3		2.5		4.9		1.5		Iris-versicolor
+74	6.1		2.8		4.7		1.2		Iris-versicolor
+75	6.4		2.9		4.3		1.3		Iris-versicolor
+76	6.6		3.0		4.4		1.4		Iris-versicolor
+77	6.8		2.8		4.8		1.4		Iris-versicolor
+78	6.7		3.0		5.0		1.7		Iris-versicolor
+79	6.0		2.9		4.5		1.5		Iris-versicolor
+80	5.7		2.6		3.5		1.0		Iris-versicolor
+81	5.5		2.4		3.8		1.1		Iris-versicolor
+82	5.5		2.4		3.7		1.0		Iris-versicolor
+83	5.8		2.7		3.9		1.2		Iris-versicolor
+84	6.0		2.7		5.1		1.6		Iris-versicolor
+85	5.4		3.0		4.5		1.5		Iris-versicolor
+86	6.0		3.4		4.5		1.6		Iris-versicolor
+87	6.7		3.1		4.7		1.5		Iris-versicolor
+88	6.3		2.3		4.4		1.3		Iris-versicolor
+89	5.6		3.0		4.1		1.3		Iris-versicolor
+90	5.5		2.5		4.0		1.3		Iris-versicolor
+91	5.5		2.6		4.4		1.2		Iris-versicolor
+92	6.1		3.0		4.6		1.4		Iris-versicolor
+93	5.8		2.6		4.0		1.2		Iris-versicolor
+94	5.0		2.3		3.3		1.0		Iris-versicolor
+95	5.6		2.7		4.2		1.3		Iris-versicolor
+96	5.7		3.0		4.2		1.2		Iris-versicolor
+97	5.7		2.9		4.2		1.3		Iris-versicolor
+98	6.2		2.9		4.3		1.3		Iris-versicolor
+99	5.1		2.5		3.0		1.1		Iris-versicolor
+100	5.7		2.8		4.1		1.3		Iris-versicolor
+101	6.3		3.3		6.0		2.5		Iris-virginica
+102	5.8		2.7		5.1		1.9		Iris-virginica
+103	7.1		3.0		5.9		2.1		Iris-virginica
+104	6.3		2.9		5.6		1.8		Iris-virginica
+105	6.5		3.0		5.8		2.2		Iris-virginica
+106	7.6		3.0		6.6		2.1		Iris-virginica
+107	4.9		2.5		4.5		1.7		Iris-virginica
+108	7.3		2.9		6.3		1.8		Iris-virginica
+109	6.7		2.5		5.8		1.8		Iris-virginica
+110	7.2		3.6		6.1		2.5		Iris-virginica
+111	6.5		3.2		5.1		2.0		Iris-virginica
+112	6.4		2.7		5.3		1.9		Iris-virginica
+113	6.8		3.0		5.5		2.1		Iris-virginica
+114	5.7		2.5		5.0		2.0		Iris-virginica
+115	5.8		2.8		5.1		2.4		Iris-virginica
+116	6.4		3.2		5.3		2.3		Iris-virginica
+117	6.5		3.0		5.5		1.8		Iris-virginica
+118	7.7		3.8		6.7		2.2		Iris-virginica
+119	7.7		2.6		6.9		2.3		Iris-virginica
+120	6.0		2.2		5.0		1.5		Iris-virginica
+121	6.9		3.2		5.7		2.3		Iris-virginica
+122	5.6		2.8		4.9		2.0		Iris-virginica
+123	7.7		2.8		6.7		2.0		Iris-virginica
+124	6.3		2.7		4.9		1.8		Iris-virginica
+125	6.7		3.3		5.7		2.1		Iris-virginica
+126	7.2		3.2		6.0		1.8		Iris-virginica
+127	6.2		2.8		4.8		1.8		Iris-virginica
+128	6.1		3.0		4.9		1.8		Iris-virginica
+129	6.4		2.8		5.6		2.1		Iris-virginica
+130	7.2		3.0		5.8		1.6		Iris-virginica
+131	7.4		2.8		6.1		1.9		Iris-virginica
+132	7.9		3.8		6.4		2.0		Iris-virginica
+133	6.4		2.8		5.6		2.2		Iris-virginica
+134	6.3		2.8		5.1		1.5		Iris-virginica
+135	6.1		2.6		5.6		1.4		Iris-virginica
+136	7.7		3.0		6.1		2.3		Iris-virginica
+137	6.3		3.4		5.6		2.4		Iris-virginica
+138	6.4		3.1		5.5		1.8		Iris-virginica
+139	6.0		3.0		4.8		1.8		Iris-virginica
+140	6.9		3.1		5.4		2.1		Iris-virginica
+141	6.7		3.1		5.6		2.4		Iris-virginica
+142	6.9		3.1		5.1		2.3		Iris-virginica
+143	5.8		2.7		5.1		1.9		Iris-virginica
+144	6.8		3.2		5.9		2.3		Iris-virginica
+145	6.7		3.3		5.7		2.5		Iris-virginica
+146	6.7		3.0		5.2		2.3		Iris-virginica
+147	6.3		2.5		5.0		1.9		Iris-virginica
+148	6.5		3.0		5.2		2.0		Iris-virginica
+149	6.2		3.4		5.4		2.3		Iris-virginica
+150	5.9		3.0		5.1		1.8		Iris-virginica
+
+isis資料集屬性對應各類別的平均以及標準差
+ Iris-setosa	            Iris-versicolor               Iris-virginica
+   4.9913  		   5.9379  		   6.5795  		
+   0.355  		   0.5042  		   0.6353  		
+   3.4015  		   2.7687  		   2.9629  		
+   0.3925  		   0.3038  		   0.3088  		
+   1.4694  		   4.2452  		   5.5516  		
+   0.1782  		   0.4712  		   0.5529  		
+   0.2743  		   1.3097  		   2.0343  		
+   0.1096  		   0.1915  		   0.2646  		
+第1筆資料類別為Iris-setosa
+第2筆資料類別為Iris-setosa
+第3筆資料類別為Iris-setosa
+第4筆資料類別為Iris-setosa
+第5筆資料類別為Iris-setosa
+第6筆資料類別為Iris-setosa
+第7筆資料類別為Iris-setosa
+第8筆資料類別為Iris-setosa
+第9筆資料類別為Iris-setosa
+第10筆資料類別為Iris-setosa
+第11筆資料類別為Iris-setosa
+第12筆資料類別為Iris-setosa
+第13筆資料類別為Iris-setosa
+第14筆資料類別為Iris-setosa
+第15筆資料類別為Iris-setosa
+第16筆資料類別為Iris-setosa
+第17筆資料類別為Iris-setosa
+第18筆資料類別為Iris-setosa
+第19筆資料類別為Iris-setosa
+第20筆資料類別為Iris-setosa
+第21筆資料類別為Iris-setosa
+第22筆資料類別為Iris-setosa
+第23筆資料類別為Iris-setosa
+第24筆資料類別為Iris-setosa
+第25筆資料類別為Iris-setosa
+第26筆資料類別為Iris-setosa
+第27筆資料類別為Iris-setosa
+第28筆資料類別為Iris-setosa
+第29筆資料類別為Iris-setosa
+第30筆資料類別為Iris-setosa
+第31筆資料類別為Iris-setosa
+第32筆資料類別為Iris-setosa
+第33筆資料類別為Iris-setosa
+第34筆資料類別為Iris-setosa
+第35筆資料類別為Iris-setosa
+第36筆資料類別為Iris-setosa
+第37筆資料類別為Iris-setosa
+第38筆資料類別為Iris-setosa
+第39筆資料類別為Iris-setosa
+第40筆資料類別為Iris-setosa
+第41筆資料類別為Iris-setosa
+第42筆資料類別為Iris-setosa
+第43筆資料類別為Iris-setosa
+第44筆資料類別為Iris-setosa
+第45筆資料類別為Iris-setosa
+第46筆資料類別為Iris-setosa
+第47筆資料類別為Iris-setosa
+第48筆資料類別為Iris-setosa
+第49筆資料類別為Iris-setosa
+第50筆資料類別為Iris-setosa
+第51筆資料類別為Iris-versicolor
+第52筆資料類別為Iris-versicolor
+第53筆資料類別為Iris-virginica
+第54筆資料類別為Iris-versicolor
+第55筆資料類別為Iris-versicolor
+第56筆資料類別為Iris-versicolor
+第57筆資料類別為Iris-versicolor
+第58筆資料類別為Iris-versicolor
+第59筆資料類別為Iris-versicolor
+第60筆資料類別為Iris-versicolor
+第61筆資料類別為Iris-versicolor
+第62筆資料類別為Iris-versicolor
+第63筆資料類別為Iris-versicolor
+第64筆資料類別為Iris-versicolor
+第65筆資料類別為Iris-versicolor
+第66筆資料類別為Iris-versicolor
+第67筆資料類別為Iris-versicolor
+第68筆資料類別為Iris-versicolor
+第69筆資料類別為Iris-versicolor
+第70筆資料類別為Iris-versicolor
+第71筆資料類別為Iris-virginica
+第72筆資料類別為Iris-versicolor
+第73筆資料類別為Iris-versicolor
+第74筆資料類別為Iris-versicolor
+第75筆資料類別為Iris-versicolor
+第76筆資料類別為Iris-versicolor
+第77筆資料類別為Iris-versicolor
+第78筆資料類別為Iris-virginica
+第79筆資料類別為Iris-versicolor
+第80筆資料類別為Iris-versicolor
+第81筆資料類別為Iris-versicolor
+第82筆資料類別為Iris-versicolor
+第83筆資料類別為Iris-versicolor
+第84筆資料類別為Iris-versicolor
+第85筆資料類別為Iris-versicolor
+第86筆資料類別為Iris-versicolor
+第87筆資料類別為Iris-versicolor
+第88筆資料類別為Iris-versicolor
+第89筆資料類別為Iris-versicolor
+第90筆資料類別為Iris-versicolor
+第91筆資料類別為Iris-versicolor
+第92筆資料類別為Iris-versicolor
+第93筆資料類別為Iris-versicolor
+第94筆資料類別為Iris-versicolor
+第95筆資料類別為Iris-versicolor
+第96筆資料類別為Iris-versicolor
+第97筆資料類別為Iris-versicolor
+第98筆資料類別為Iris-versicolor
+第99筆資料類別為Iris-versicolor
+第100筆資料類別為Iris-versicolor
+第101筆資料類別為Iris-virginica
+第102筆資料類別為Iris-virginica
+第103筆資料類別為Iris-virginica
+第104筆資料類別為Iris-virginica
+第105筆資料類別為Iris-virginica
+第106筆資料類別為Iris-virginica
+第107筆資料類別為Iris-versicolor
+第108筆資料類別為Iris-virginica
+第109筆資料類別為Iris-virginica
+第110筆資料類別為Iris-virginica
+第111筆資料類別為Iris-virginica
+第112筆資料類別為Iris-virginica
+第113筆資料類別為Iris-virginica
+第114筆資料類別為Iris-virginica
+第115筆資料類別為Iris-virginica
+第116筆資料類別為Iris-virginica
+第117筆資料類別為Iris-virginica
+第118筆資料類別為Iris-virginica
+第119筆資料類別為Iris-virginica
+第120筆資料類別為Iris-versicolor
+第121筆資料類別為Iris-virginica
+第122筆資料類別為Iris-virginica
+第123筆資料類別為Iris-virginica
+第124筆資料類別為Iris-virginica
+第125筆資料類別為Iris-virginica
+第126筆資料類別為Iris-virginica
+第127筆資料類別為Iris-virginica
+第128筆資料類別為Iris-virginica
+第129筆資料類別為Iris-virginica
+第130筆資料類別為Iris-virginica
+第131筆資料類別為Iris-virginica
+第132筆資料類別為Iris-virginica
+第133筆資料類別為Iris-virginica
+第134筆資料類別為Iris-versicolor
+第135筆資料類別為Iris-versicolor
+第136筆資料類別為Iris-virginica
+第137筆資料類別為Iris-virginica
+第138筆資料類別為Iris-virginica
+第139筆資料類別為Iris-virginica
+第140筆資料類別為Iris-virginica
+第141筆資料類別為Iris-virginica
+第142筆資料類別為Iris-virginica
+第143筆資料類別為Iris-virginica
+第144筆資料類別為Iris-virginica
+第145筆資料類別為Iris-virginica
+第146筆資料類別為Iris-virginica
+第147筆資料類別為Iris-virginica
+第148筆資料類別為Iris-virginica
+第149筆資料類別為Iris-virginica
+第150筆資料類別為Iris-virginica
